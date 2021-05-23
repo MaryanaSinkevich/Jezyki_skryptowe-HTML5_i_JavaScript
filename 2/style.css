@@ -1,0 +1,74 @@
+#Strona{
+    font-family: arial;
+}
+
+#Naglowek{
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+#Menu{
+    background-color: rgb(53, 52, 52);
+    color: white;
+    border-style:solid;
+    border-width: 3px;
+    border-color: rgb(255, 253, 250);
+	height: 50px;
+}
+
+#ObszarLogowania{
+    background-color: rgb(144, 183, 255);
+    border-style:solid;
+    border-width: 1px;
+    text-align: right;
+    border-color: black;
+}
+
+#PierwszyObszarBoczny{
+    width: 200px;
+	height: 300px;
+    background-color: white;
+    float: left;
+	border-style:solid;
+	border-width: 1px;
+    border-color: black;
+}
+
+
+#DrugiObszarBoczny{
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    float: right;
+    border-style:solid;
+	border-width: 1px;
+    border-color: black;
+}
+
+#ObszarRoboczy{
+    height: 300px;
+    background-color: darkgray;
+    border-style:solid;
+	border-width: 1px;
+    border-color: black;
+}
+
+
+.option{
+float: left;
+min-width: 50px;
+height: 25px;
+font-size: 18px;
+padding: 10px;
+border-right: 2px dotted #444444;
+opacity: 0,8;
+border-color: yellow;
+border-style: solid;
+border-width: 2px;
+}
+
+.option:hover{
+    background-color: #000000;
+    cursor: pointer;
+}
