@@ -10,7 +10,9 @@ The goal of the project is to improve the knowledge of HTML, CSS and Javascript.
 
 #### [Task 1](https://github.com/MaryanaSinkevich/Jezyki_skryptowe-HTML5_i_JavaScript/tree/main/1)
 * Store's website
+<img src="https://user-images.githubusercontent.com/80317472/120246301-1b97f000-c270-11eb-8bb5-b586f16b026e.png" width="267" height="162">
 ![Strona internetowa](https://user-images.githubusercontent.com/80317472/120246301-1b97f000-c270-11eb-8bb5-b586f16b026e.png)
+
 * Form
 ![Formularz](https://user-images.githubusercontent.com/80317472/120246349-3f5b3600-c270-11eb-95d0-1cfb19dee0df.png)
 
