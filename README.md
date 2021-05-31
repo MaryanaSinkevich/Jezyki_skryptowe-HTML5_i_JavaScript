@@ -10,14 +10,14 @@ The goal of the project is to improve the knowledge of HTML, CSS and Javascript.
 
 #### [Task 1](https://github.com/MaryanaSinkevich/Jezyki_skryptowe-HTML5_i_JavaScript/tree/main/1)
 * Store's website
-<img src="https://user-images.githubusercontent.com/80317472/120246301-1b97f000-c270-11eb-8bb5-b586f16b026e.png" width="356" height="216">
+<img src="https://user-images.githubusercontent.com/80317472/120246301-1b97f000-c270-11eb-8bb5-b586f16b026e.png" width="534" height="324">
 
 * Form
-<img src="https://user-images.githubusercontent.com/80317472/120246349-3f5b3600-c270-11eb-95d0-1cfb19dee0df.png" width="168" height="175">
+<img src="https://user-images.githubusercontent.com/80317472/120246349-3f5b3600-c270-11eb-95d0-1cfb19dee0df.png" width="252" height="261">
 
 #### [Task 2](https://github.com/MaryanaSinkevich/Jezyki_skryptowe-HTML5_i_JavaScript/tree/main/2)
 * Website
-<img src="https://user-images.githubusercontent.com/80317472/120246389-5e59c800-c270-11eb-8da8-584018c9624b.png" width="290" height="160">
+<img src="https://user-images.githubusercontent.com/80317472/120246389-5e59c800-c270-11eb-8da8-584018c9624b.png" width="435" height="240">
 
 #### [Task 3](https://github.com/MaryanaSinkevich/Jezyki_skryptowe-HTML5_i_JavaScript/tree/main/3)
 * Validation of the form
@@ -27,7 +27,7 @@ The goal of the project is to improve the knowledge of HTML, CSS and Javascript.
 
 #### [Task 4](https://github.com/MaryanaSinkevich/Jezyki_skryptowe-HTML5_i_JavaScript/tree/main/4)
 * Map (using the Leaflet library)
-<img src="https://user-images.githubusercontent.com/80317472/120246413-76c9e280-c270-11eb-9146-445cfe356517.png" width="320" height="223">
+<img src="https://user-images.githubusercontent.com/80317472/120246413-76c9e280-c270-11eb-9146-445cfe356517.png" width="480" height="334">
 
 #### [Task 5](https://github.com/MaryanaSinkevich/Jezyki_skryptowe-HTML5_i_JavaScript/tree/main/5)
 * Context Menu
