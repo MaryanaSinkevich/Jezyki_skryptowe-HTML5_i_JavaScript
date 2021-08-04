@@ -30,8 +30,8 @@ The goal of the project is to improve the knowledge of HTML, CSS and Javascript.
 <img src="https://user-images.githubusercontent.com/80317472/120246413-76c9e280-c270-11eb-9146-445cfe356517.png" width="480" height="334">
 
 #### [Task 5](https://github.com/MaryanaSinkevich/Jezyki_skryptowe-HTML5_i_JavaScript/tree/main/5)
-* Context Menu
-* Clocks with different time zones
+*  Context Menu
+*  Clocks with different time zones
 
 
 ## Technologies
